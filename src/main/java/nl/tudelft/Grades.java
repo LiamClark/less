@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Grades {
-
+    
     public static class Student {
         private String name;
         private String studentNumber;
